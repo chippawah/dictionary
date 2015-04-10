@@ -1,0 +1,61 @@
+<html ng-app='dictionary'>
+	<head>
+		<title>Dictionary App</title>
+		<link rel="stylesheet" type="text/css" href="bower_components/bootstrap/dist/css/bootstrap.css">
+	</head>
+	<body class='container'>
+
+		<div ng-controller='navCtrl'>
+
+			<nav class="navbar navbar-default">
+
+		        <a ng-click='goHome()' class="navbar-brand">Dictionary Home</a>
+		        <button class='btn btn-lg btn-success pull-right' ng-click='showForm = !showForm'>Add Word</button>
+
+	      	</nav>
+
+	      	<div ng-show='showForm'class='panel panel-default'>
+
+	      		<div class='panel-heading'>New Word</div>
+	      		<div class='panel-body'>
+
+	      			<form>
+	     
+						<div class='form-group'>
+	      					<label for='inputWord'>Word</label>
+	      					<input type='text' class='form-control' id='inputWord' ng-model='newWord.word'>
+	      				</div>
+
+	      				<div class='form-group'>
+	      					<label for='inputDefinirion'>Defintion</label>
+	      					<input type='text' class='form-control' id='inputDefinirion' ng-model='newWord.definition'>
+	      				</div>
+
+	      			</form>
+
+	      		</div>
+	      		<div class='panel-footer'>
+
+	      			<button class='btn btn-success' ng-click='addWord(newWord)'>Add Word</button>
+	      			<button class='btn btn-warning' ng-click='showForm = !showForm'>Cancel</button>
+
+	      		</div>
+
+	      	</div>
+
+		</div>
+
+		<ng-view></ng-view>
+
+	    <script type="text/javascript" src="bower_components/jquery/dist/jquery.js"></script>
+		<script type="text/javascript" src='/bower_components/angular/angular.js'></script>
+		<script type="text/javascript" src="/bower_components/angular-route/angular-route.js"></script>
+
+		<script type="text/javascript" src='js/app.js'></script>
+		<script type="text/javascript" src='js/wordService.js'></script>
+		<script type="text/javascript" src='js/mainCtrl.js'></script>
+		<script type="text/javascript" src='js/singleWordCtrl.js'></script>
+		<script type="text/javascript" src='js/navCtrl.js'></script>
+		
+	</body>
+</html>

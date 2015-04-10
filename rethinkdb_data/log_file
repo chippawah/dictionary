@@ -1,0 +1,110 @@
+2015-04-01T15:53:51.457364000 0.884567s notice: Recursively removing directory /Users/CCantrell/Documents/Projects/Interview Problems/Defend7/rethinkdb_data/tmp
+2015-04-01T15:53:51.460266000 0.887474s notice: Initializing directory /Users/CCantrell/Documents/Projects/Interview Problems/Defend7/rethinkdb_data
+2015-04-01T15:53:51.460420000 0.887621s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/CCantrell/Documents/Projects/Interview Problems/Defend7/rethinkdb_data' did not already exist or is empty.)
+2015-04-01T15:53:51.460480000 0.887681s notice: Running rethinkdb 1.16.2-1 (CLANG 6.0 (clang-600.0.56))...
+2015-04-01T15:53:51.505326000 0.932593s notice: Running on Darwin 14.1.0 x86_64
+2015-04-01T15:53:51.505469000 0.932716s notice: Loading data from directory /Users/CCantrell/Documents/Projects/Interview Problems/Defend7/rethinkdb_data
+2015-04-01T15:53:54.019341000 3.446678s info: Automatically using cache size of 100 MB
+2015-04-01T15:53:54.019361000 3.446697s warn: Cache size does not leave much memory for server and query overhead (available memory: 515 MB).
+2015-04-01T15:53:54.019370000 3.446707s warn: Cache size is very low and may impact performance.
+2015-04-01T15:53:54.020293000 3.447630s notice: Listening for intracluster connections on port 29015
+2015-04-01T15:53:54.021509000 3.448846s notice: Listening for client driver connections on port 28015
+2015-04-01T15:53:54.021696000 3.449033s notice: Listening for administrative HTTP connections on port 8080
+2015-04-01T15:53:54.021698000 3.449035s notice: Listening on addresses: 127.0.0.1, ::1
+2015-04-01T15:53:54.021703000 3.449040s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2015-04-01T15:53:54.021708000 3.449045s notice: Server ready, "Chips_MacBook_Pro_local_9r9" eece736e-f574-4b20-a8b2-7496b5f31b8e
+2015-04-01T15:53:54.557174000 3.984512s notice: A newer version of the RethinkDB server is available: 1.16.3. You can read the changelog at <https://github.com/rethinkdb/rethinkdb/releases>.
+2015-04-05T19:28:02.604714000 0.226634s notice: Running rethinkdb 1.16.2-1 (CLANG 6.0 (clang-600.0.56))...
+2015-04-05T19:28:03.069844000 0.691814s notice: Running on Darwin 14.1.0 x86_64
+2015-04-05T19:28:03.070808000 0.692777s notice: Loading data from directory /Users/CCantrell/Documents/Projects/Interview Problems/Defend7/rethinkdb_data
+2015-04-05T19:28:04.525258000 2.147283s info: Automatically using cache size of 100 MB
+2015-04-05T19:28:04.525274000 2.147299s warn: Cache size does not leave much memory for server and query overhead (available memory: 495 MB).
+2015-04-05T19:28:04.525283000 2.147308s warn: Cache size is very low and may impact performance.
+2015-04-05T19:28:04.555498000 2.177524s notice: Listening for intracluster connections on port 29015
+2015-04-05T19:28:04.557713000 2.179739s notice: Listening for client driver connections on port 28015
+2015-04-05T19:28:04.557931000 2.179956s notice: Listening for administrative HTTP connections on port 8080
+2015-04-05T19:28:04.557934000 2.179959s notice: Listening on addresses: 127.0.0.1, ::1
+2015-04-05T19:28:04.557940000 2.179965s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2015-04-05T19:28:04.557946000 2.179972s notice: Server ready, "Chips_MacBook_Pro_local_9r9" eece736e-f574-4b20-a8b2-7496b5f31b8e
+2015-04-05T19:28:04.771654000 2.393680s notice: A newer version of the RethinkDB server is available: 1.16.3. You can read the changelog at <https://github.com/rethinkdb/rethinkdb/releases>.
+2015-04-06T10:50:33.317139000 0.759755s notice: Running rethinkdb 1.16.2-1 (CLANG 6.0 (clang-600.0.56))...
+2015-04-06T10:50:33.371097000 0.813708s notice: Running on Darwin 14.1.0 x86_64
+2015-04-06T10:50:33.372075000 0.814684s notice: Loading data from directory /Users/CCantrell/Documents/Projects/Interview Problems/Defend7/rethinkdb_data
+2015-04-06T10:50:34.392732000 1.835392s info: Automatically using cache size of 100 MB
+2015-04-06T10:50:34.392745000 1.835405s warn: Cache size does not leave much memory for server and query overhead (available memory: 437 MB).
+2015-04-06T10:50:34.392753000 1.835413s warn: Cache size is very low and may impact performance.
+2015-04-06T10:50:34.393828000 1.836488s notice: Listening for intracluster connections on port 29015
+2015-04-06T10:50:34.395087000 1.837747s notice: Listening for client driver connections on port 28015
+2015-04-06T10:50:34.395235000 1.837895s notice: Listening for administrative HTTP connections on port 8080
+2015-04-06T10:50:34.395238000 1.837897s notice: Listening on addresses: 127.0.0.1, ::1
+2015-04-06T10:50:34.395248000 1.837908s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2015-04-06T10:50:34.395259000 1.837918s notice: Server ready, "Chips_MacBook_Pro_local_9r9" eece736e-f574-4b20-a8b2-7496b5f31b8e
+2015-04-06T10:50:34.813545000 2.256246s notice: A newer version of the RethinkDB server is available: 1.16.3. You can read the changelog at <https://github.com/rethinkdb/rethinkdb/releases>.
+2015-04-06T11:00:25.864145000 593.335264s notice: Server got SIGINT from pid 426, uid 501; shutting down...
+2015-04-06T11:00:25.864348000 593.335467s notice: Shutting down client connections...
+2015-04-06T11:00:25.864717000 593.335835s notice: All client connections closed.
+2015-04-06T11:00:25.864723000 593.335841s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2015-04-06T11:00:25.975399000 593.446518s notice: Storage engine shut down.
+2015-04-06T11:00:37.359091000 0.593454s notice: Running rethinkdb 1.16.2-1 (CLANG 6.0 (clang-600.0.56))...
+2015-04-06T11:00:37.386796000 0.621153s notice: Running on Darwin 14.1.0 x86_64
+2015-04-06T11:00:37.386866000 0.621222s notice: Loading data from directory /Users/CCantrell/Documents/Projects/Interview Problems/Defend7/rethinkdb_data
+2015-04-06T11:00:38.544740000 1.779146s info: Automatically using cache size of 100 MB
+2015-04-06T11:00:38.544752000 1.779159s warn: Cache size does not leave much memory for server and query overhead (available memory: 432 MB).
+2015-04-06T11:00:38.544760000 1.779166s warn: Cache size is very low and may impact performance.
+2015-04-06T11:00:38.545723000 1.780130s notice: Listening for intracluster connections on port 29015
+2015-04-06T11:00:38.547019000 1.781425s notice: Listening for client driver connections on port 28015
+2015-04-06T11:00:38.547136000 1.781542s notice: Listening for administrative HTTP connections on port 8080
+2015-04-06T11:00:38.547144000 1.781550s notice: Listening on addresses: 127.0.0.1, ::1
+2015-04-06T11:00:38.547149000 1.781555s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2015-04-06T11:00:38.547154000 1.781560s notice: Server ready, "Chips_MacBook_Pro_local_9r9" eece736e-f574-4b20-a8b2-7496b5f31b8e
+2015-04-06T11:00:38.826600000 2.061007s notice: A newer version of the RethinkDB server is available: 1.16.3. You can read the changelog at <https://github.com/rethinkdb/rethinkdb/releases>.
+2015-04-07T09:43:54.933749000 0.700734s notice: Running rethinkdb 1.16.2-1 (CLANG 6.0 (clang-600.0.56))...
+2015-04-07T09:43:55.110571000 0.877605s notice: Running on Darwin 14.1.0 x86_64
+2015-04-07T09:43:55.111223000 0.878256s notice: Loading data from directory /Users/CCantrell/Documents/Projects/Interview Problems/Defend7/rethinkdb_data
+2015-04-07T09:43:56.183914000 1.951003s info: Automatically using cache size of 100 MB
+2015-04-07T09:43:56.183927000 1.951015s warn: Cache size does not leave much memory for server and query overhead (available memory: 943 MB).
+2015-04-07T09:43:56.183934000 1.951023s warn: Cache size is very low and may impact performance.
+2015-04-07T09:43:56.184878000 1.951967s notice: Listening for intracluster connections on port 29015
+2015-04-07T09:43:56.186266000 1.953355s notice: Listening for client driver connections on port 28015
+2015-04-07T09:43:56.186427000 1.953515s notice: Listening for administrative HTTP connections on port 8080
+2015-04-07T09:43:56.186432000 1.953521s notice: Listening on addresses: 127.0.0.1, ::1
+2015-04-07T09:43:56.186437000 1.953525s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2015-04-07T09:43:56.186441000 1.953529s notice: Server ready, "Chips_MacBook_Pro_local_9r9" eece736e-f574-4b20-a8b2-7496b5f31b8e
+2015-04-07T09:43:56.507722000 2.274811s notice: A newer version of the RethinkDB server is available: 1.16.3. You can read the changelog at <https://github.com/rethinkdb/rethinkdb/releases>.
+2015-04-07T12:53:52.982631000 0.761388s notice: Running rethinkdb 1.16.2-1 (CLANG 6.0 (clang-600.0.56))...
+2015-04-07T12:53:53.055668000 0.834477s notice: Running on Darwin 14.1.0 x86_64
+2015-04-07T12:53:53.056630000 0.835438s notice: Loading data from directory /Users/CCantrell/Documents/Projects/Interview Problems/Defend7/rethinkdb_data
+2015-04-07T12:53:54.008315000 1.787122s info: Automatically using cache size of 311 MB
+2015-04-07T12:53:54.009139000 1.787946s notice: Listening for intracluster connections on port 29015
+2015-04-07T12:53:54.010146000 1.788952s notice: Listening for client driver connections on port 28015
+2015-04-07T12:53:54.010231000 1.789037s notice: Listening for administrative HTTP connections on port 8080
+2015-04-07T12:53:54.010240000 1.789046s notice: Listening on addresses: 127.0.0.1, ::1
+2015-04-07T12:53:54.010246000 1.789052s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2015-04-07T12:53:54.010250000 1.789056s notice: Server ready, "Chips_MacBook_Pro_local_9r9" eece736e-f574-4b20-a8b2-7496b5f31b8e
+2015-04-07T12:53:54.186837000 1.965702s warn: Problem when checking for new versions of RethinkDB: HTTP request to update.rethinkdb.com failed.
+2015-04-10T10:36:15.459670000 0.860029s notice: Running rethinkdb 1.16.2-1 (CLANG 6.0 (clang-600.0.56))...
+2015-04-10T10:36:15.610808000 1.011160s notice: Running on Darwin 14.1.0 x86_64
+2015-04-10T10:36:15.611816000 1.012167s notice: Loading data from directory /Users/CCantrell/Documents/Projects/Interview Problems/Defend7/rethinkdb_data
+2015-04-10T10:36:16.856061000 2.256467s info: Automatically using cache size of 100 MB
+2015-04-10T10:36:16.856070000 2.256475s warn: Cache size does not leave much memory for server and query overhead (available memory: 798 MB).
+2015-04-10T10:36:16.856075000 2.256480s warn: Cache size is very low and may impact performance.
+2015-04-10T10:36:16.896599000 2.297006s notice: Listening for intracluster connections on port 29015
+2015-04-10T10:36:16.898569000 2.298975s notice: Listening for client driver connections on port 28015
+2015-04-10T10:36:16.898821000 2.299227s notice: Listening for administrative HTTP connections on port 8080
+2015-04-10T10:36:16.898838000 2.299243s notice: Listening on addresses: 127.0.0.1, ::1
+2015-04-10T10:36:16.898849000 2.299254s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2015-04-10T10:36:16.898860000 2.299265s notice: Server ready, "Chips_MacBook_Pro_local_9r9" eece736e-f574-4b20-a8b2-7496b5f31b8e
+2015-04-10T10:36:17.173340000 2.573745s warn: Problem when checking for new versions of RethinkDB: HTTP request to update.rethinkdb.com failed.
+2015-04-10T14:15:48.733346000 0.728704s notice: Running rethinkdb 1.16.2-1 (CLANG 6.0 (clang-600.0.56))...
+2015-04-10T14:15:48.761260000 0.756612s notice: Running on Darwin 14.1.0 x86_64
+2015-04-10T14:15:48.762253000 0.757603s notice: Loading data from directory /Users/CCantrell/Documents/Projects/Interview Problems/Defend7/rethinkdb_data
+2015-04-10T14:15:49.744345000 1.739751s info: Automatically using cache size of 100 MB
+2015-04-10T14:15:49.744358000 1.739764s warn: Cache size does not leave much memory for server and query overhead (available memory: 968 MB).
+2015-04-10T14:15:49.744366000 1.739771s warn: Cache size is very low and may impact performance.
+2015-04-10T14:15:49.745335000 1.740742s notice: Listening for intracluster connections on port 29015
+2015-04-10T14:15:49.746860000 1.742266s notice: Listening for client driver connections on port 28015
+2015-04-10T14:15:49.746991000 1.742398s notice: Listening for administrative HTTP connections on port 8080
+2015-04-10T14:15:49.747004000 1.742410s notice: Listening on addresses: 127.0.0.1, ::1
+2015-04-10T14:15:49.747009000 1.742415s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2015-04-10T14:15:49.747014000 1.742420s notice: Server ready, "Chips_MacBook_Pro_local_9r9" eece736e-f574-4b20-a8b2-7496b5f31b8e
+2015-04-10T14:15:50.066454000 2.061859s notice: A newer version of the RethinkDB server is available: 1.16.3. You can read the changelog at <https://github.com/rethinkdb/rethinkdb/releases>.
